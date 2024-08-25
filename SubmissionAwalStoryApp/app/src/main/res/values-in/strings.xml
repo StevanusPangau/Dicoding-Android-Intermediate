@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission Awal Story App</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ayo bagikan cerita ceriaMu hari ini!</string>
+    <string name="title_welcome_page">Selamat datang di Story App Gen Z</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap membagikan ceritaMu hari ini?</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="setting_bahasa">setting bahasa</string>
+    <string name="lang">Bahasa</string>
+    <string name="description">Description</string>
+    <string name="title">Story App Gen Z</string>
+
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="hint_desc">Masukkan deskripsi...</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+</resources>

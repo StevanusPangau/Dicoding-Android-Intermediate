@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Cerito Awal</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Njupuk</string>
+    <string name="message_welcome_page">Monggo bagikan cerito serem! Saiki!</string>
+    <string name="title_welcome_page">Sugeng rawuh ing Aplikasi Cerito Gen Z</string>
+    <string name="title_signup_page">Lengkapno data sampeyan ing ngisor iki</string>
+    <string name="email">Email</string>
+    <string name="password">Sandi</string>
+    <string name="message_login_page">Mlebu dulu data sampeyan ya</string>
+    <string name="title_login_page">Sudah siap ngandheli ceritemu saiki?</string>
+    <string name="name">Jeneng</string>
+    <string name="logout">Lakon</string>
+    <string name="setting_bahasa">Pangaturan basa</string>
+    <string name="lang">Basa</string>
+    <string name="description">Pamarekan</string>
+    <string name="title">Aplikasi Cerito Gen Z</string>
+
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="hint_desc">Tulis pamarekan...</string>
+    <string name="empty_image_warning">Monggo masukkan berkas gambar dulu.</string>
+</resources>

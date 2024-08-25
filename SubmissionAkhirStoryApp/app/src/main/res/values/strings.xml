@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Early Submission Story App</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Let\'s share your cheerful story today!</string>
+    <string name="title_welcome_page">Welcome to Story App Gen Z</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data</string>
+    <string name="title_login_page">Are you ready to share your story today?</string>
+    <string name="name">Name</string>
+    <string name="logout">Log Out</string>
+    <string name="setting_bahasa">Language Setting</string>
+    <string name="lang">Language</string>
+    <string name="description">Description</string>
+    <string name="title">Story App Gen Z</string>
+
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="hint_desc">Enter description...</string>
+    <string name="empty_image_warning">Please insert an image file first.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">maps</string>
+    <string name="retry">Try again</string>
+    <string name="len_password">Password must be at least 8 characters long</string>
+    <string name="include_location">Include Location</string>
+    <string name="alert_login_success">You have successfully logged in. Can\'t wait to learn\, right?</string>
+    <string name="next">Next</string>
+    <string name="wrong_email_and_password">Incorrect email or password.</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Historias de Presentación Temprana</string>
+
+    <string name="signup">Registrarse</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="message_welcome_page">¡Compartamos tu historia alegre hoy!</string>
+    <string name="title_welcome_page">¡Bienvenido Aplicación de Historias Gen Z</string>
+    <string name="title_signup_page">Completa tus datos a continuación</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="message_login_page">Por favor, ingresa tus datos</string>
+    <string name="title_login_page">¿Estás listo para compartir tu historia hoy?</string>
+    <string name="name">Nombre</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="setting_bahasa">Configuración de idioma</string>
+    <string name="lang">Idioma</string>
+    <string name="description">Descripción</string>
+    <string name="title">Aplicación de Historias Gen Z</string>
+
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="upload">Subir</string>
+    <string name="hint_desc">Ingresa una descripción...</string>
+    <string name="empty_image_warning">Por favor, inserta un archivo de imagen primero.</string>
+</resources>
